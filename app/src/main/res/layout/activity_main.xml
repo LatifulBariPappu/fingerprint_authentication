@@ -27,6 +27,7 @@
         android:id="@+id/textMsg"
         android:textSize="16sp"
         android:textColor="#ff0000"
+        android:layout_marginStart="30dp"
         />
     <Button
         android:layout_width="wrap_content"
